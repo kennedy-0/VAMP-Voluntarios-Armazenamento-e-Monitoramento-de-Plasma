@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VAMP</title>
+    <link rel="stylesheet" href="style/style.css">
+    <!-- Chart.js: biblioteca de gráficos -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <header><h1>VAMP</h1></header>
+
+    <p class="info">
+        O VAMP é um sistema de consulta sobre doações de sangue, com o objetivo
+        de alertar as pessoas sobre a importância da doação de sangue.
+    </p>
+
+    <section class="tab">
+        <p id="aviso" hidden>Não foi possível carregar os dados. Inicie a API (python api.py) e recarregue a página.</p>
+
+        <!-- Filtros: marcar vários = soma; nenhum marcado = todos -->
+        <div class="filtro">
+            <div class="grupo" id="f-ano"><h2>Ano</h2></div>
+            <div class="grupo" id="f-cidade"><h2>Cidade</h2></div>
+            <div class="grupo" id="f-tipo"><h2>Tipo</h2></div>
+            <button id="limpar" type="button">Limpar filtros</button>
+        </div>
+
+        <div class="resumo">
+            <div><strong id="k-doacoes">0</strong>doações</div>
+            <div><strong id="k-litros">0</strong>litros coletados</div>
+        </div>
+
+        <div class="graficos">
+            <div><h3>Doações por mês</h3><div class="caixa"><canvas id="g-mes"></canvas></div></div>
+            <div><h3>Doações por cidade</h3><div class="caixa"><canvas id="g-cidade"></canvas></div></div>
+            <div><h3>Doações x estoque atual, por tipo sanguíneo</h3><div class="caixa"><canvas id="g-tipo"></canvas></div></div>
+        </div>
+    </section>
+
+    <footer><p>Desenvolvido por kennedy-0</p></footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
 
