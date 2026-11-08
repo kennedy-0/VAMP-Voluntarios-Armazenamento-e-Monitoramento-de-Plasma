@@ -319,6 +319,7 @@ Projeto desenvolvido para fins acadêmicos e de aprendizado.
 - **Kennedy - full-stack**
 - **Ian - Administrador de Banco de Dados**
 - **Yuri - Coleta de dados**
+- **Victor - Documentação**
 
 Desenvolvimento de software | Python | JavaScript | Linux | Banco de Dados
 
