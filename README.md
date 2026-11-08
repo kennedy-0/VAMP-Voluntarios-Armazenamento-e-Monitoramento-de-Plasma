@@ -314,9 +314,9 @@ O projeto também representa uma oportunidade de desenvolver conhecimentos prát
 
 Projeto desenvolvido para fins acadêmicos e de aprendizado.
 
-## Autor
+## Autores
 
-**Daniel Kennedy**
+**Kennedy , Ian & Yuri**
 
 Desenvolvimento de software | Python | JavaScript | Linux | Banco de Dados
 
