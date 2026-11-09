@@ -326,5 +326,5 @@ Desenvolvimento de software | Python | JavaScript | Linux | Banco de Dados
 ---
 
 <p align="center">
-  <strong>VAMP — Tecnologia aplicada à organização e ao monitoramento de doações de sangue.</strong>
+  <strong>VAMP — Tecnologia aplicada à organização e ao monitoramento de doações de sangue.(projeto acadêmico).</strong>
 </p>
