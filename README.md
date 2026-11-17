@@ -1,3 +1,4 @@
+<img width="1920" height="995" alt="VAMP" src="https://github.com/user-attachments/assets/5ad82299-4dd9-4aed-8058-fac0eb490423" />
 # VAMP — Voluntários, Armazenamento e Monitoramento de Plasma
 
 **Sistema de gerenciamento, monitoramento e análise de dados relacionados à doação de sangue.**
