@@ -316,7 +316,7 @@ O projeto também representa uma oportunidade de desenvolver conhecimentos prát
 Projeto desenvolvido para fins acadêmicos e de aprendizado.
 
 ## Autores
-
+- **Pedro - Professor**
 - **Kennedy - full-stack**
 - **Ian - Administrador de Banco de Dados**
 - **Yuri - Coleta de dados**
